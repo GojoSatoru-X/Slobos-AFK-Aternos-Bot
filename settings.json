@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UorniMc.aternos.me",
+    "ip": "UorniMc.aternos.me:14347",
     "port": 14347,
     "version": "",
     "try-creative": false
